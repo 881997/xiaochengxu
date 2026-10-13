@@ -1,0 +1,226 @@
+{
+  "entryPagePath": "pages/index/index.html",
+  "pages": [
+    "pages/index/index",
+    "pages/index/search",
+    "pages/index/creation",
+    "pages/guide/index",
+    "pages/research/index",
+    "pages/city/index",
+    "pages/activity/index",
+    "pages/activity/detail",
+    "pages/guide/detail",
+    "pages/index/partList",
+    "pages/mine/index",
+    "pages/show/index",
+    "pages/subject/index",
+    "pages/mine/subscribe",
+    "pages/mine/collect",
+    "pages/mine/info",
+    "pages/subject/detail",
+    "pages/mine/setting",
+    "pages/index/webview",
+    "pages/show/detail",
+    "pages/index/part",
+    "pages/city/detail",
+    "pages/index/research",
+    "pages/index/creationList",
+    "pages/index/researchList",
+    "pages/login/index",
+    "pages/celebrity/index",
+    "pages/celebrity/detail"
+  ],
+  "page": {
+    "pages/index/index.html": {
+      "window": {
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/index/search.html": {
+      "window": {
+        "navigationBarTitleText": "藏品搜索",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/index/creation.html": {
+      "window": {
+        "navigationBarTitleText": "藏品详情"
+      }
+    },
+    "pages/guide/index.html": {
+      "window": {
+        "navigationBarTitleText": "参观指南",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/research/index.html": {
+      "window": {
+        "navigationBarTitleText": "学术研究",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/city/index.html": {
+      "window": {
+        "navigationBarTitleText": "发现老照片",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/activity/index.html": {
+      "window": {
+        "navigationBarTitleText": "活动列表",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/activity/detail.html": {
+      "window": {
+        "navigationBarTitleText": "活动信息"
+      }
+    },
+    "pages/guide/detail.html": {
+      "window": {
+        "navigationBarTitleText": "参观详情"
+      }
+    },
+    "pages/index/partList.html": {
+      "window": {
+        "navigationBarTitleText": "部分列表"
+      }
+    },
+    "pages/mine/index.html": {
+      "window": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    "pages/show/index.html": {
+      "window": {
+        "navigationBarTitleText": "展览列表",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/subject/index.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/mine/subscribe.html": {
+      "window": {
+        "navigationBarTitleText": "我的预约",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/mine/collect.html": {
+      "window": {
+        "navigationBarTitleText": "我的收藏"
+      }
+    },
+    "pages/mine/info.html": {
+      "window": {
+        "navigationBarTitleText": "个人信息"
+      }
+    },
+    "pages/subject/detail.html": {
+      "window": {
+        "navigationBarTitleText": "专题详情"
+      }
+    },
+    "pages/mine/setting.html": {
+      "window": {
+        "navigationBarTitleText": "账户设置"
+      }
+    },
+    "pages/index/webview.html": {
+      "window": {
+        "navigationBarTitleText": ""
+      }
+    },
+    "pages/show/detail.html": {
+      "window": {
+        "navigationBarTitleText": "展览"
+      }
+    },
+    "pages/index/part.html": {
+      "window": {
+        "navigationBarTitleText": "部分"
+      }
+    },
+    "pages/city/detail.html": {
+      "window": {
+        "navigationBarTitleText": "城市详情"
+      }
+    },
+    "pages/index/research.html": {
+      "window": {
+        "navigationBarTitleText": "研究详情"
+      }
+    },
+    "pages/index/creationList.html": {
+      "window": {
+        "navigationBarTitleText": "馆藏作品"
+      }
+    },
+    "pages/index/researchList.html": {
+      "window": {
+        "navigationBarTitleText": "相关研究"
+      }
+    },
+    "pages/login/index.html": {
+      "window": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    "pages/celebrity/index.html": {
+      "window": {
+        "navigationBarTitleText": "名家名作",
+        "enablePullDownRefresh": true
+      }
+    },
+    "pages/celebrity/detail.html": {
+      "window": {
+        "navigationBarTitleText": "名家名作"
+      }
+    }
+  },
+  "global": {
+    "window": {
+      "navigationBarTextStyle": "black",
+      "navigationBarTitleText": "青岛老照片",
+      "navigationBarBackgroundColor": "#efcea4",
+      "backgroundColor": "#efcea4"
+    }
+  },
+  "tabBar": {
+    "color": "#4F4741",
+    "selectedColor": "#5F3519",
+    "backgroundColor": "#f8f3e9",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index.html",
+        "text": "首页",
+        "iconData": "iVBORw0KGgoAAAANSUhEUgAAADcAAAAvCAYAAABHXlKwAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc5OEUxRTAzM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc5OEUxRTA0M0E5NjExRjA4Q0IzREU1MzlBODk1NjY4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Nzk4RTFFMDEzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Nzk4RTFFMDIzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6OHTquAAADa0lEQVR42uyaW0gUURjHZ1ez7KKVURGlSGsXqociMiqzi1ESWRZGgk8JGVT0EFpR9mJ0sR56KMEigiisoCgIKyq66lYQQm9FYQ8JEoJYRJbtbv+P/kuHZW/OzszOynzwY77ZnT07/5lzvvmfs+sKBALaUA23NoTDEeeIs2Gkx3NQQ2VRIt8xCTSD1WA06AdvwT7wWm+j9S0vkn7ncilgI4VJjABLQTtYlardciJ4DPK4vxcUgC2gj9/9CBQltVvqiLE8cQ/3t4NLzD+CTt7RYeA+KAHeVLhzmUAGxDzu71aEBaMDLAcDYCR4CGbbXdxw8BzM5X4dOBfh2FdgLfNR4CWYYWdxrWAh80PgVIzjn4ANzMeDNhYh24m7p1S/BnAszs/dBZuYT+Cdn2YncTfBOuaN4MggP38HVDLP4xjMsYO4G2Az8yawX2c711hVJWayKI1JpriLoIL5BbArwfakqu5hLtXzGauv5eKalSstV32HQV38LKusxHzwlM9Dy8SdVsRcV8aLUSFV9iDzRazClog7TtMbLP3bTHI5J8BR5iWsxqaKOwwOMH8A1ptsvOvZSzRW41tmiavj80ujoy+1aFpWq7icclZnQ8WVgZPM34AVwMqVJfGn55lXKBfZEHGNyh0rpOG1OmoUgbVGTnkKuE1jJRP3kAF6OQ77TBIk/nQJ+AG+gymKQTdMXBO7RiEJrZ5miRPnsyDM621GihPX8AksAz1gFihm/ifK57LBGpAV0pXTue9lu5Gim9t3HBJirD8oFdSwmfgZonGxp5jdNFKIu7gdYwrzC1SDqxHed3HbwueeJcsMWXH6zlxlacGtFLDfIJ9j5zLXWrqjtKXLQOu1X2kx3vfwzklsZUHykOl0/bIM8ZXnsDJGey67rKFITFbydm7luegDfu6/B13Mx5lxEmaJ8yt5tElnBre+VBIXMPn4pIqzRTjiHHH2GLuGPuf8MexXohFs29I1FL/iVNwmVr98bgesFOdVrmhNFMMbb/SEea1U+/9jiq5fgPR6yy/gCqjiIs5Uunv5YbGfFmswPaCKdymTZjqHUyyN7bZaKU5CFmDn0EPu1Pkd2craSHmY93s5p/NZLe4bWKz9W5wt4+D3hxSdAO9EJDP8mQJ/hrwus4UOToc69Z6gy/kHkSPOEeeIMyr+CjAAbEqkccgpc5oAAAAASUVORK5CYII=",
+        "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADQAAAAvCAYAAACsaemzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc5OEUxREZGM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc5OEUxRTAwM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Nzk4RTFERkQzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Nzk4RTFERkUzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6Hp7rjAAACTUlEQVR42uyaP2hTQRyA8xpTQ7GDji0IilQRHSxdTMnQpV00SxBTEC0OZhExOLRLXTJ0KS3d2qGFDiFQRRGMOEVQtKEVtCiKUhxKdRMcgkJQ0u/whkcgff/fvZe+H3wcIZff3ZfL5XfXRms2m7FOiq5Yh0UkFAn5HIecJiiOp9s9dQNycB6+wWOYb+00XX4VLKE28RCyusf9IMyvQQa+h+UjdxRet8joYxA24FwYhE7DW0gZ9OuDNzASZKGUnORJk/17oQpXgigk9sQLOGbjtWt8qdwJjBCTydM8gW4HaRbIM6dciEncp1l0aR4F8pXcSKTZOZwyuBDJe7Cnn8JVatNvX4QQScgak/Gw2L+DS0j98FQIGVFjKnDRhxPMDowi9cWTPYTMKZqaTzIijsMm46ZdFyLpkKzuAz6fM0Wtesn4OdeESDZGsy6PNKqizDzuOhYiyU2a5x4eYK3EPPOZsS3Ei2/RLAfsqjPFvGbtrtBSQO9v9+zeh27Ddd3zZyGpQEDUlI/wR86l4kodYqk/05xRINSAE1aK7MH7I4k87mgK53hY5RU8+CsUCUVCkZAyoUfi9gkX4DKs+CHk1cFzAlZ1j9/L63VJVvtkmFao2CKjj6o8UoXmI1cHo2P+A9gKi9AneZA0ilpYhBom+8XDIhRXuHdNJ9YU1qsuq2Ob6fwPEoqERFn566oQlysh9EGR0FfY9WIPTcqVMoojJvP1mOxXkG+ou0IkFVfw4dj//9DV9+GnyXF/GeTZhizjPrO6pFr005hIKBJyFHsCDADQSpTi4AU12AAAAABJRU5ErkJggg=="
+      },
+      {
+        "pagePath": "pages/guide/index.html",
+        "text": "参观",
+        "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAvCAYAAAClgknJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc5QURDMTIxM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc5QURDMTIyM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Nzk4RTFFMDUzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Nzk4RTFFMDYzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6iiWoPAAADSElEQVR42uyaWUhUURjHZyYtTSMxSJiwAqkeWohoebGn6EWEsKIIoogKQiPaIKSGNooW2jDowSJ6yCAJpMJ6iF56iLIgsoawkqKFFlqgEsty+n/wv3A4OHPPXebeJueDn2fuOue75/v+57tnjKZSqUguWyyS45Z3IO+ARyswPXHvsrlb0NSDSvATlIAoSLH1YnKP72A4+AJaExdu1ZtcGDVRIXR+PZqmgB9uG5yo88uBT2jKwQZwOcsdnyCd5whPghNdfoRQmfzBzZoMw82LAy9BN5gKRoMuP5K4hx2LBxQ+Q9j+8kuFrDiLBuSA8ffE/L7hPyujGeK9Gs0ZMNSFdB4FJ0N1ADYWTHR57fSgRiCt1kKZWjAKDzkJObF+cC/0EKITj3yU0azUQv91EotmzwOlDi/9A26Cb2GH0EqqkBu7BBaHmsRMxGug2OF3/wYtoYcQElgUqGawJXEVOAeugBWhy6hDqwDqvFHL4u1sWCokZe+BDBPZK9CgqE0Nz70KboDjYKfmQMx05P1I4tl6Dgxg2xUHrJrpDjhBB8bRqR4eG2PaPz9CSGL5DRiZ5vgzjoJlfUoNFeG7cCm3n3CfFHgzwOMgVEjk8LoLFSpSHJSiLm45gHs25kIpUcj2KduSXFEh/bUxqST3e20EZXSTGJFeryOQjSdv2Qe265jYKvfBc740ZU2F7GwtmA9eg83ggXa8Hdzlsk3BAHkSZ81UEUYIJcAeZVue5G3tobwAczRhsMRgGJpeLq94GgE3SVykdF7KhToyy8W9+sJQoX7ls9Q8C8EhZd8og3uMZ/vOr3UhJyaLUlsVrRfbBpaCTsa1nVmT48cwHBA7wslJnnYz910E08Apg+vLNaXyHEJuHFnAdg2Y6fBaawS+enWgmOrw1oUDsji7m5/bHF5baxdCpioklWQZZG21XvcYvjruAovAFHAMbDIo00Vyl3Oz2asD+6kgpz1MZtUMhY3gfMR+UauV7T6MfGfa2Db9nRhPJMGOVLpwoJEvPYepTJ+pRh2a3FrvC3LeKtCNzldlTE6nP3TDkREu5oMfynaHg2SeDAeSvjpg6KRdCX8QLOFoRpV5o5ALXhIyO9D5dlt5zP+rQd6BQe7AXwEGADqP3EKIXpaVAAAAAElFTkSuQmCC",
+        "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADYAAAAvCAYAAAConDmOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc5QURDMTI1M0E5NjExRjA4Q0IzREU1MzlBODk1NjY4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc5QURDMTI2M0E5NjExRjA4Q0IzREU1MzlBODk1NjY4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NzlBREMxMjMzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NzlBREMxMjQzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7AGi+OAAAFrElEQVR42uxaC1BUVRj+eSwg78fC8hAIBkWIHPIxFsGAJhQBRg6IjFKgRQNWFqNoUaMkPoYwZyxf2QBND7CHhflgUpxJkYaXBVksrwIUXFAeurxZls5/9u4OLCzuJVauDP/Mx7l379mz97vn/7//P+eiNTIyArPRtGGW2hyxR8102XTeE+2HTRpBPAGfYJjtGGrYIDMmjl1M8CpBtXKnD3KuTuuMpRKkEFgTaGmAFJoec188Al+Ccub3NOqKO2bAq4wIYjRNTH+GQkagaWLDM0SsT9PEHplszpaY1qyU+8nMzsUNwhO3gy6Px/q79ZXlcD7zCDeJmVhYAd9+/pS+6+yxeMZnTGWM1VwvhuPJCcAzMGB9E61N/3LXFdHuNDfN1YpcEw/VqqilBa5e3qBnMI/1TTTXVYO4s52bMeax3Acitr43tezbLYaM19dzM8babjZA7e8lrGbM0MQM9A0NYbC/D3xCI6BReIPMnpBbxNpvN0NuRqra/cPi3yYy/4Ti/NnoONr+eCQdbhT9yqEYY2Ehm98Eb/9AkAwNQkFuNnS1icBpkRc8HbIWXtqSTPv8X3K6D1uttHV0YMmq52FEKoWs3dtA1FCvyINdd0QQHJsIy1aHcIeYpcAe/CM2Ak9Pb8LrA329cCknk/aTKyGSwvMVwS/ChexjUHbxHARExICj++Mwz9iEispU09K0qaLA2RW8fPwn/XLpL2eJWBjR4/6+Htqa2whgWWAoFOfnQYeohcLBzR0sbR1GC4mZYkvg63MPd8aEZUXw3aE0MDAymfC6uKsdWv6pAReS69B0dGU/3Se+T1sLgR0lJe7qkNWe5hbY9BJUEeSqS2jaxQNjRlj2G+sHMjwsW7taOzhBfUU5iNvv0nNTvo3UL3x9UkBkTCk5lRJYofhyVjzGPxGZd1va2itmFu25mHiMq+NKvS8yG0rXOEHMgMTVwqVPgRMRhQEmtpTN1JJP28aqPxVKObpcM7OyRkEJJGcI3weRmzbxUGU2850hOjkVTK3G7qBJJWO3T4wtrGh7q1YIJ1PeGn+jRG39124An7AIPD1A4DdjM2ZuLYC41IO0zMJyq6a8mJZQK9e9AnauC8Y8KWsHR3jMczF0tN6miVvZXXuJyBTkZsmJ+c6oK74Qt4WSqiy8DHnHDio+ryq5RlJDAONlMj3S5elBTMp+lWN98WEyNFX/xY2SytHdk7YXso7SNjg2AZrra6DyagEU5p2SZV5tWe6VDA4KibuJyKEbhqXSUHwtbXY5WqMzNiyRMLPBoxW8M3E1TMZ8e0e4fCqbXuu53yWPIUzCHhMM04DE7t1t484KuoksQ2SV+ybantiRSOPnmTWRsPHdvWBl5wALlqyQd1f1lsEW/3R3dWqUGCtVxNoQiWAl77jQE/Dt6bcf76HXsAJJzPgMQja9Ie/+8wRDYPmh39/bM15QppkYqxjDEqkk/ww9XvfO+7Str7wOfxcXyrvUEmSC7KXDV6pCRcpUJ3KhUecBsyWmw9YdUaJvEjUzNDWD0Ne20s9+OvoRDA304yFqvlAFKTS6i9pSL3s9ZiyrH9FE001MMpVYw11eFJInA4KoC+Lx6U/T5ZeTCBYxszMamwkiqY+ePEw7Lg9a86B4nDKxT6a0H3KrUSHvG3amKRaWTNFsy1TwQ0r4HC+eOXGICEcHTfYoOureB1tiSYx7DLAld+X0N7jj24lxEhYvc8kfDu+HuooyOoO4OlAGxmLFlUu0b9S2XfKhviQo1EQeQxnbOXrxp66iCpxcLElb5u0fpF9VUgR1f5RCTvouwOSLWwbKZZQ8D/qGR9GakyGUoMkE3c2ArbUwy4590dt30ySNM4I5algqnXBVsHR1CKyMfFn+0V7M6Vxdj8kLwn2romIBoe7mFkE+JyqPB5ALJfieoHWSfvcIzjKkzrNKuHP/SzVHjBv2nwADAHZc62nxU9ZDAAAAAElFTkSuQmCC"
+      },
+      {
+        "pagePath": "pages/mine/index.html",
+        "text": "我的",
+        "iconData": "iVBORw0KGgoAAAANSUhEUgAAADUAAAAvCAYAAABDq4KNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc5QURDMTI5M0E5NjExRjA4Q0IzREU1MzlBODk1NjY4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc5QURDMTJBM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NzlBREMxMjczQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NzlBREMxMjgzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6Ots2WAAADRUlEQVR42uyaWWgUQRCGZ41iXkTEaIgaT7xIlCjBAw/UBwU1eKJuRCSi+KKCCEmI+OIVVFQEQVFQ8RaUgIgGRBATz2hi1A0BA/EABY8XX4zXjn/hP9As7pGdnp0mTMFP7WSnu/frru6pGhKybdvqatbN6oIWQAVQAZRe6+6m8a7wjGS3yA0LoUnQKCgEtUEN0M0dl+rueAEVcnOkJ4CaCO2F5iXpog6qBNwD08NvE/RMAZLVqIJWURVQrbKS9zE5201eqfXQSX5ugrZA9XGaF0OHoem8LseKHTBtpUYoQDcYgvUJ7n8KCJmVK7zej0maYBrUGfoWqCTVRgCTkHzEy3MmQY1Wwmh1Gu1L6QuwWlNMgVpG/wJ63tnGWK12uLsxffkOVURf66IPp+04U6Dy6N+66OMz/UBToDroe2rIbjpMgWrXEDojY/ryHeoJ/QIXfSyhbzAFqoa+P7Q2jcxkPh/eYpdNgfoKHeXn49CgTgD1hTvvAOF4f29SRrGVcNnM+4pSABoD1wj1gX5AG01Lk35DM+lzCLYzzhGdy2xdUqrB/NtsrNI3U+upQuhizEkodVMrFGWxKPBZ/O41tAZAj42ofOPYK2g8tA3aDA1h3RQ7Ax+hY9AeAEWNKeeT2EFqOMuQfIb7O4ZmG2A8GdiL8MvjnpLwkj3yCfoO9eD3v3iYyPHfmyH5RVYOkLZJK7USWsTyIz/NPj5gkuRdxXXogpuQdHv6LYYifGCGXQCJDYCWQ2fl8ABgacbDD4Me4TsItfK9RUgJuz/Wv1diiczmxPaCxkJzoQ3KZJ/Giq3LCBSATsGV8fI2H7yRNIrD//U9FO6QkgvW4L6lnoYfBi1XgHZzdiO6Ti4AvCFElZPoYsxqz6DQuZQH+5y3P/IbvHoeAKxa6b8SYxd7tVIn6JswaIXlsWEMiYR7zv7SDsXkcxYvy6zMmVPKFOI3TNa9UivomzGDzZkikj2mvGkK64aaRn/Vyrxdo5+qG8qpj1p8gGqlH6YbKof+pQ9QjfT9dOd+P5mIlmDDatlTSkJsJ8g+bGb6FrMUrVDZSknhl2XphpLnxBy2UWc1lMJsp2q20qf6OcrXBA89r6dMteBfDgKoAEqv/RVgAFmX6/ihhIIQAAAAAElFTkSuQmCC",
+        "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAvCAYAAAClgknJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc5REFBMzYyM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc5REFBMzYzM0E5NjExRjA4Q0IzREU1MzlBODk1NjY4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NzlBREMxMkIzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NzlEQUEzNjEzQTk2MTFGMDhDQjNERTUzOUE4OTU2NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4U9KrKAAACMElEQVR42uyZTyhEQRzH38OFtSRsufm3KQc5LMrmgIsc5LrJn9ooRS5ItA4rB7koufhTWmlzkgM3pRwU6yDthc2fi1JI/oRYz3dq1F7wdmd2f2/zfvVpe9vMe/N5M7Pzm1lV0zQlmSNFSfIwBUyB/y6QprfghKtOb9EC0AbqQRnIAk/gFOwAv8e/eyFLQNX7M6pTYByMgPRfyoTBFCTGjCawAVqiePY2aILIhxHmwGaUjWfRyIcU+ST2gOYY6zrRszOUAjbgFbzHACSKqATckoZgL5WAU5JAFZVAsSQBO4aRSiGQI0kgF1goBB4kCdyDFwoBWSnBGRa0MIXAviSBANUkXpIksEglwIbQnOA91jB8jilTiT5wFGPdc9BphGSuBhxEWScIHHj7b0YQYI2oBgs6y/tABRp/l7Admc7oAbOgAzSAUpABXkGIp8+raHhA1gNlC7BgE3Io4jqV7cLQaNo98Q+RzTcmbPgUgjz+/SdfWZ/BO3sOch0L743vYXsLLsEh251B8CaRAqzho6BbUj70CMFlfE5C5Drek7iVnzAMS0zmrKAfnECkPZ4Cg2Ad5CvxCXYE44OENx4CLjCtJCY8kNC1S9N1rIKbscOqKyXxYcecCMnogXmFJlaEewBvv5wv+1RRi17YE+mBLoU23KJDyEks4BAVKCEWsIkKWIkFrKICn8QCqqhAJrGARTSZ2wKVEddahLzGUQUa+Ff9oPBKbOQw/6U0BUyBJI8vAQYA+ZiJXyrtAE8AAAAASUVORK5CYII="
+      }
+    ]
+  },
+  "renderer": {
+    "allUsed": ["webview"],
+    "default": "webview"
+  },
+  "componentFramework": {
+    "allUsed": ["exparser"],
+    "default": "exparser"
+  }
+}

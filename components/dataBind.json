@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "research-view": "/components/researchView",
+    "part-view": "/components/partView"
+  }
+}
